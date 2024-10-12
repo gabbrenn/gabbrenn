@@ -24,14 +24,11 @@ Welcome to my GitHub profile!
 
   ### 🔨 Projects
   A selection of my key projects:
-  - **[Project 1 Name](https://github.com/yourusername/project1)**: Brief description of what this project does and its purpose.
-  - **[Project 2 Name](https://github.com/yourusername/project2)**: Brief description of what this project does and its purpose.
-  - **[Project 3 Name](https://github.com/yourusername/project3)**: Brief description of what this project does and its purpose.
+  - **[House Rent Hub](https://github.com/gabbrenn/rent_house_hub)**: This repository contains my portfolio project called Rent House Hub. It is my final project for the ALX specialization.
 
   ### 🌐 Connect with Me
   - **Email**: gabvladimirbrenn@gmail.com
   - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/gabiro-vladimir-brenn/)
-  - **Portfolio**: [Your Personal Portfolio](#)
 
   </div>
 
